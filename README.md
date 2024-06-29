@@ -176,7 +176,7 @@ I also created the code needed in `server.js` to sync the Sequelize models to th
 
 ## Project View
 
-![ORM Terminal and Insomnia View](<Assets/images/ORM Terminal View and Insomnia.jpg>)
+![ORM E-Commerce App View](<Assets/images/ORM E-Commerce App View.jpg>)
 
 ## Contact Information
 Thanks for visiting!
